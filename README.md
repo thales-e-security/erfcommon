@@ -1,4 +1,4 @@
-#efrcommon
+# erfcommon
 
 [![Build Status](https://travis-ci.com/thales-e-security/erfcommon.svg?branch=master)](https://travis-ci.com/thales-e-security/erfcommon) [![Coverage Status](https://coveralls.io/repos/github/thales-e-security/erfcommon/badge.svg?branch=travis-ci)](https://coveralls.io/github/thales-e-security/erfcommon?branch=travis-ci)
 
